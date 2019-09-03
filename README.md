@@ -10,4 +10,4 @@ Collect and organize what you need .
 
 [微信](https://pc.weixin.qq.com/) - [消息防撤回（Windows）](https://raw.githubusercontent.com/LuanJian/Download/master/winmm.dll) - 存放在 微信 安装程序根目录内即可生效
 
-[WinRAR](https://www.rarlab.com/) - [压缩解压]（https://raw.githubusercontent.com/LuanJian/Download/master/rarreg.key） - 存放在 WinRAR 安装程序根目录内即可生效
+[WinRAR](https://www.rarlab.com/) - [压缩解压](https://raw.githubusercontent.com/LuanJian/Download/master/rarreg.key) - 存放在 WinRAR 安装程序根目录内即可生效

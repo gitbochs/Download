@@ -12,4 +12,4 @@ Collect and organize what you need .
 
 [WinRAR](https://www.rarlab.com/) - [去广告弹窗（ Windows ）](https://raw.githubusercontent.com/LuanJian/Download/master/rarreg.key) - 存放在 WinRAR 安装程序根目录内即可生效
 
-[Windows 10] - [任务栏时间显示秒](https://raw.githubusercontent.com/LuanJian/Download/master/win10_time.reg) - 双击导入注册表后重启文件管理器即可生效
+[Windows 10](http://msdn.itellyou.cn/) - [任务栏时间显示秒](https://raw.githubusercontent.com/LuanJian/Download/master/win10_time.reg) - 双击导入注册表后重启文件管理器即可生效
